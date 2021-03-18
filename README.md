@@ -1,6 +1,6 @@
 # sajt
 Сајт за потребе школе \
-Хостован на https://markoskrbic.000webhostapp.com  (БЕЗ www.!) \
+Хостован на http://markoskrbic.000webhostapp.com  (БЕЗ www.!) \
 ХТМЛ, ЦСС и Јаваскрипт су коришћени. 
 
 
